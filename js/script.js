@@ -1,1 +1,5 @@
 // ini js
+
+function stratEngine() {
+    
+}
